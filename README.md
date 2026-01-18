@@ -1,6 +1,6 @@
-![Header](https://github.com/trofimovSN/trofimovSN/blob/main/assets/Logo1.gif)
+<img src="assets/Logo1.gif" width="100%">
 
-About me    
+About me
 
 Languages and Tools
 

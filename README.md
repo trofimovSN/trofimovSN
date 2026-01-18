@@ -1,4 +1,4 @@
-<img src="assets/Logo1.gif" width="100%">
+<img src="assets/Logo1.gif" width="100%" height="200" style="object-fit: cover;">
 
 About me
 

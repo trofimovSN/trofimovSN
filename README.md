@@ -30,7 +30,7 @@ API testing project for Koel music streaming server.
 - Postman
 - JavaScript (pm.test)
 
-👉 Repository: (вставишь ссылку позже)
+👉 Repository: [API Postman collection](https://github.com/trofimovSN/Koel-API)
 
 ---
 

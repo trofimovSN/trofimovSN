@@ -1,7 +1,45 @@
-<img src="assets/Logo1.gif" width="100%" height="200" style="object-fit: cover;">
+# 👋 Hi, I'm Sergei
 
-About me
+QA Engineer (Junior) focused on API testing and automation.
 
-Languages and Tools
+---
 
-Follow Me on:
+## 🧠 Skills
+- API Testing (Postman)
+- Test Design (positive / negative scenarios)
+- REST API (CRUD, authentication)
+- Basic JavaScript for test automation
+- Git & GitHub
+
+---
+
+## 🚀 Projects
+
+### 🔹 Koel API Testing Project
+API testing project for Koel music streaming server.
+
+**What I did:**
+- Tested authentication (login/logout)
+- Covered playlist CRUD operations
+- Implemented request chaining (token, IDs)
+- Built loop execution for bulk operations (like/unlike songs)
+- Performed negative testing (401, 404, 422)
+- Validated responses (status codes, JSON, headers)
+
+**Tech:**
+- Postman
+- JavaScript (pm.test)
+
+👉 Repository: (вставишь ссылку позже)
+
+---
+
+## 🧪 What I’m Learning
+- API automation (Rest Assured / JS)
+- Test frameworks
+- CI/CD basics
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/trofimovSN

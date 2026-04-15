@@ -5,13 +5,13 @@ QA Engineer focused on building reliable test frameworks and API validation.
 ---
 
 ## 📖 Skills
-**Languages** Java (Core)
-**Automation** Selenium WebDriver, TestNG, Playwright, JUnit 5 (Jupiter)
-**API Testing** Postman, REST Assured
-**Tools** Gradle, Maven
-**Databases** MariaDB, DBeaver (SQL queries, data validation)
-**SDLC** Jira, Azure, Git, GitHub, 
-**OS** Windows 11, Ubuntu Linux
+- **Languages** Java (Core)
+- **Automation** Selenium WebDriver, TestNG, Playwright, JUnit 5 (Jupiter)
+- **API Testing** Postman, REST Assured
+- **Tools** Gradle, Maven
+- **Databases** MariaDB, DBeaver (SQL queries, data validation)
+- **SDLC** Jira, Azure, Git, GitHub, 
+- **OS** Windows 11, Ubuntu Linux
 
 ---
 

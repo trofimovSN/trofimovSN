@@ -2,7 +2,7 @@
 
 **Manual & Automation Testing · Java · Selenium · Playwright · API · SQL**
 
-I build test automation frameworks from scratch and validate software across the full stack — UI, REST API, and database. Currently working as a QA intern and freelance tester on real client projects, with a focus on finding high-impact defects early and reducing manual regression effort.
+I build test automation frameworks from scratch and validate software across the full stack — UI, REST API, and database. Currently working as a QA intern and freelance tester with a focus on finding high-impact defects early and reducing manual regression effort.
 
 📍 Woodruff, SC · Open to on-site, hybrid, or remote roles  
 🔗 [LinkedIn](https://www.linkedin.com/in/sergei-trofimov-7b428275)
@@ -14,7 +14,7 @@ I build test automation frameworks from scratch and validate software across the
 ### [Koel-Selenium](https://github.com/trofimovSN/Koel-Selenium) — UI & API Automation Framework
 > Java · Selenium WebDriver · TestNG · Rest-Assured · Gradle · Page Object Model
 
-End-to-end automation framework for [Koel](https://koel.dev) (open-source music streaming app).
+End-to-end automation framework for [Koel](https://qa.koel.app/) (open-source music streaming app).
 
 - **32 automated UI tests** covering core user flows — positive and negative scenarios
 - **7 API tests** validating backend endpoints independently of the UI layer
@@ -55,7 +55,7 @@ Parallel framework built alongside Koel-Selenium to compare Selenium vs Playwrig
 | Databases | MySQL, MariaDB, DBeaver |
 | Build & CI | Gradle, Maven, Git |
 | Defect Tracking | Jira |
-| OS | Windows 11, Ubuntu Linux |
+| OS | Windows 11, MacOS, Ubuntu Linux |
 
 ---
 
